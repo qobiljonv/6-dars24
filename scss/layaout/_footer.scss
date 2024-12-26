@@ -1,0 +1,36 @@
+.airport__container {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  display: flex;
+}
+
+.airport__logo-wrapper {
+  margin-right: auto;
+}
+
+.airport__text {
+  width: 100%;
+  max-width: 280px;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.6;
+  margin-right: auto;
+  color: $light-muted-text-color;
+}
+.airport__wrapper {
+  margin-left: 7rem;
+  margin-top: 2.4rem;
+}
+.airport__wrapper__title {
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 1.2;
+  color: $light-secondary-color;
+}
+
+.airport__wrapper__link {
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  color: $light-muted-text-color;
+}
